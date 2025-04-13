@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema(
 	{
@@ -25,7 +25,7 @@ const userSchema = new mongoose.Schema(
 			type: String,
 			default: "",
 		},
-		
+		// createdAt, updatedAt => Member since <createdAt>
 	},
 	{ timestamps: true }
 );
