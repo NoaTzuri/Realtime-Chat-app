@@ -2,12 +2,14 @@
 
 Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
+- ⚙️ Tech Stack: MERN (MongoDB, Express, React, Node.js), Socket.io, TailwindCSS, DaisyUI
+- 🔐 Auth: Secure Authentication & Authorization using JWT
+- 💬 Real-Time Messaging: Built with Socket.io for fast, bi-directional communication
+- 🟢 Online User Status: Instantly displays user presence
+- 🌐 Global State Management: Managed with Zustand
+- 🛡️ Robust Error Handling: On both client and server sides for better reliability
+- 🎨 Theming & Profile: Users can update their profile picture and customize chat theme colors
+- 🐞 Error Handling: Both on the server and on the client
 
 ### Setup .env file
 
