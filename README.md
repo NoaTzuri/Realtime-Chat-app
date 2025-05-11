@@ -1,11 +1,14 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+### Deployed App: 
+
+    https://realtime-chat-app-z6sw.onrender.com/login
 
 ### 🧩 Overview  
 
 A full-stack web application that enables real-time messaging between users, along with live user presence, customizable chat themes, and profile image updates.
 
-### Highlights:
+### 🚀 Highlights:
 
 - ⚙️ Tech Stack: MERN (MongoDB, Express, React, Node.js), Socket.io, TailwindCSS, DaisyUI
 - 🔐 Auth: Secure Authentication & Authorization using JWT
