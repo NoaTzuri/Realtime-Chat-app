@@ -1,6 +1,8 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-## 🧩 Overview  
+
+### 🧩 Overview  
+
 A full-stack web application that enables real-time messaging between users, along with live user presence, customizable chat themes, and profile image updates.
 
 ### Highlights:
@@ -14,14 +16,16 @@ A full-stack web application that enables real-time messaging between users, alo
 - 🎨 Theming & Profile: Users can update their profile picture and customize chat theme colors
 - 🐞 Error Handling: Both on the server and on the client
 
-## 🛠️ Challenges & Solutions  
+### 🛠️ Challenges & Solutions  
+
 **Challenge:** Enabling reliable, low-latency communication between users  
 **Solution:** Implemented WebSockets (via Socket.IO) for real-time data flow  
 
 **Challenge:** Ensuring robust error handling across a distributed architecture  
 **Solution:** Built centralized error handling in both the client and Node.js backend 
 
-## 📈 Outcomes
+### 📈 Outcomes
+
 - Delivered a seamless chat experience with <100ms message delivery time  
 - Designed a responsive and accessible UI for desktop and mobile users  
 - Implemented secure and scalable architecture suitable for production use
